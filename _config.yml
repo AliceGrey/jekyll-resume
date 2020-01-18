@@ -1,15 +1,15 @@
 # Jekyll Resume Theme
 
 # Site settings
-title: Jekyll Resume
+title: Alice Weigt
 email: almw@protonmail.com
-description: Jekyll Resume is a mega simple resume theme for Jekyll.
+description: CV for Alice Weigt
 baseurl: ""
-url: "http://mattcouchman.co.uk/jekyll-resume"
+url: "http://alicegrey.github.io"
 name: Alice Weigt
-job: front end engineer
-location: Birmingham, UK
-languages: HTML, CSS and Javascript
+job: hacker
+location: Bay Area, California
+languages: C++, Java, and Python
 github_username:  alicegrey
 email_address: almw@protonmail
 
