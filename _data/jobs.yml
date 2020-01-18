@@ -1,7 +1,15 @@
--   title: Engineering Lead
-    company: Company X
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+-   title: Store Support Proactive Monitoring Analyst
+    company: Gap Inc
+    description: Responsible for monitoring the stability of key in store technology utilizing Nagios alerts, Airwatch, and PowerBI reports. When issues are detected, reached out to stores to troubleshoot, resolve, dispatch, or escalate as needed. Documented service tickets using Service Now ticketing system.
 
--   title: Front end developer
-    company: Company Y
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+-   title: Advanced Repair Agent
+    company: Geek Squad
+    description: Responsible for providing end-users with repair and support services for PC's and mobile devices. Utilized internal ticketing system to work with team members to complete repairs in a timely manner. Performed same-day iPhone component-level repair as an Apple Authorized Service Provider.
+    
+    title: Consultation Agent
+    company: Geek Squad
+    description: Worked directly with end-users in a retail environment to develop technology solutions that fit their needs. Assisted with basic troubleshooting and empowered clients by helping them understand what technology can do for them. Created and managed support tickets to facilitate repairs done right the first time.
+    
+    title: Computer Sales Associate
+    company: Best Buy
+    description: Empowered customers to better understand what technology can do for them and helped them purchase complete solutions to improve their everyday life. 
