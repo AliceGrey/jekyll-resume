@@ -15,3 +15,5 @@ email_address: almw@protonmail
 
 # Build settings
 markdown: kramdown
+
+theme: jekyll-theme-minimal
